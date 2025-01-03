@@ -45,4 +45,4 @@ npm run build
 MIT License - feel free to use in personal and commercial projects.
 
 ---
-Built by [Benjamin Airabor](https://github.com/yourusername)
+Built by [Benjamin Airabor](https://github.com/TechBoss1)
